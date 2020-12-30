@@ -1,0 +1,22 @@
+{
+  "name": "lambda-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mooream2291/lambda-function.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mooream2291/lambda-function/issues"
+  },
+  "homepage": "https://github.com/mooream2291/lambda-function#readme",
+  "dependencies": {
+    "sharp": "^0.27.0"
+  }
+}
