@@ -10,4 +10,5 @@ I am having some configuration issues (my access key is not being recognized so 
 
 an image and thumbnail that your Lambda processed:
 
-Not quite there yet
+![orig](./assets/20TB-CROWS-superJumbo-v2.jpg)
+![resized](./assets/resized-20TB-CROWS-superJumbo-v2(1).jpg)
